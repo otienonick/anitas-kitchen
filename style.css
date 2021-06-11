@@ -1,16 +1,19 @@
 
+*{
+    font-family: 'Zilla Slab', serif;}
 
 header{
     background-image: url("./assets/landing.jpg");
-    background-size: cover;
     background-repeat: no-repeat;
-    height: 720px;
     text-align: center;
+    background-size: cover;
     width: 90.85%;
 }
+
 #first{
-    padding: 200px;
+    padding: 5%;
 }
+
 #first>p{
     color: white;
     font-size: 2em;
@@ -55,6 +58,7 @@ color: white;
 }
 
 
+
 #third{
     display: flex;
     text-align: left;
@@ -63,19 +67,29 @@ color: white;
 
 #fourth{
     display: flex;
-    padding: 100px;
-    text-align: right;
+
 
 }
 #drink{
     display: flex;
-}
-div#middle{
-    padding: 100px;
-    text-align: center;
+    margin-right: 210px;
 
 }
-
+#food{
+    margin-left: 300px;
+}
+#you{
+margin-right:210px; 
+padding-left: 45px;
+}
+#dri{
+    margin-left: 300px;
+    text-align: right;
+    padding-right: 45px;
+}
+#lunch{
+    opacity: 0.5;
+}
 
 
 
