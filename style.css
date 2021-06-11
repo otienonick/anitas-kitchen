@@ -1,0 +1,15 @@
+header{
+    background-image: url("./assets/landing.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 720px;
+    text-align: center;
+}
+#first{
+    padding: 200px;
+}
+#first>p{
+    color: white;
+    font-size: 2em;
+
+}
