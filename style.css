@@ -1,6 +1,9 @@
 
 *{
     font-family: 'Zilla Slab', serif;}
+    div{
+        border: 1px ridge green;
+    }
 
 header{
     background-image: url("./assets/landing.jpg");
@@ -67,28 +70,32 @@ color: white;
 
 #fourth{
     display: flex;
+    padding: 5%;
 
 
 }
 #drink{
     display: flex;
-    margin-right: 210px;
+    margin-right: 100px;
 
 }
 #food{
-    margin-left: 300px;
+    margin-left:200px;
 }
 #you{
-margin-right:210px; 
+margin-right:200px; 
 padding-left: 45px;
 }
 #dri{
-    margin-left: 300px;
+    margin-left: 200px;
     text-align: right;
     padding-right: 45px;
 }
 #lunch{
     opacity: 0.5;
+}
+#middle{
+    padding: 5%;
 }
 
 
