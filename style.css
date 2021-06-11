@@ -11,5 +11,46 @@ header{
 #first>p{
     color: white;
     font-size: 2em;
+    text-align: center
 
 }
+#second{
+    position: relative;
+    display:flex;
+    text-align: center;
+}
+#image{
+    position: relative;
+    display: flex;
+}
+#image p{
+    position: absolute;
+  top: 80px;margin-left: 150px;
+
+
+    
+}
+    
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+    
+
+
+    
+
