@@ -54,6 +54,32 @@ color: white;
 
 }
 
+
+#third{
+    display: flex;
+    text-align: left;
+
+} 
+
+#fourth{
+    display: flex;
+    padding: 100px;
+    text-align: right;
+
+}
+#drink{
+    display: flex;
+}
+div#middle{
+    padding: 100px;
+    text-align: center;
+
+}
+
+
+
+
+
     
 
     
