@@ -136,7 +136,7 @@ padding-left: 45px;
     display: flex;
     color: #F15A29;
     border: 1px solid #F15A29;
-    margin-left: 200px;
+    margin-left: 260px;
     padding-left: 30px;
     box-shadow:1px 1px  #F15A29;
     height: 50px;width: 150px;
@@ -237,21 +237,23 @@ a{
 
 #sixth{
     display: flex;
-    width: 70%;
+    width: 71%;
     margin-left: 50px;
     color: #F15A29;
     font-weight: bold;
+
   
-    padding: 5%;
+    padding: 6%;
     
   
 }
 
 
 #customers{
-    width: 300%;
+    width: 270%;
     text-align: center;
     box-shadow: 2px 2px 5px  gray;
+    padding: 30px;
    
 
 }
@@ -262,6 +264,8 @@ a{
 #menu{
     text-align: center;
     box-shadow: 2px 2px 5px  gray;
+    padding: 20px;
+    
 }
 #pics{
     display: flex;
@@ -320,13 +324,27 @@ a{
     border-radius: 5px;
 }
 .logo{
-    font-size: 60px;
+    font-size: 50px;
 }
 .daily h1{
     font-size: 35px;
 }
 
 
+.fb{width:15%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 560px;
+
+}
+.last{
+    font-size:20px ;
+}
+.rest{
+    width: 20%;
+    margin-left: 530px;
+    margin-top:30px ;
+}
 
 
 
