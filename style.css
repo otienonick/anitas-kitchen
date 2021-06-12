@@ -165,7 +165,8 @@ box-shadow:1px 1px #F15A29;
     justify-content: space-around;
     font-size: 1.2em;
     background-color:white;
-    background-color: #EAE8E4;
+
+   
 
 
 
@@ -181,13 +182,15 @@ box-shadow:1px 1px #F15A29;
 #ff{
     background-color: white;
 }
-#ink a{color:black;
+#ink a{ color:rgb(90, 86, 86);
 
     
 }
 #ink{
     border-right: 1px solid rgb(165, 157, 157);
-    border: 1px solid rgb(185, 178, 178)
+    border: 1px solid rgb(185, 178, 178);
+   
+
 }
 a{
     text-decoration: none;
