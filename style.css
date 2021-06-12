@@ -52,7 +52,7 @@ color:black;
 position: absolute;
 width: 310px;
 padding: 3px;
-color: rgb(214, 202, 202);
+color:#EAE8E4;
 
 }
 
@@ -85,6 +85,7 @@ color: rgb(214, 202, 202);
     margin-left:100px;
     border: 20px solid white;
     box-shadow: 2px 2px 10px ;
+    font-size: 0px;
 }
 #you{
 margin-right:200px; 
@@ -94,7 +95,9 @@ padding-left: 45px;
     margin-left: 100px;
     text-align: right;
     padding-right: 45px;
+
 }
+
 #lunch{
     opacity: 0.5;
 }
@@ -106,16 +109,34 @@ padding-left: 45px;
     color: #F15A29;
 }
 #view{
+    font-weight: bold;
+    display: flex;
+    color: #F15A29;
     border: 1px solid #F15A29;
     margin-left: 200px;
-    padding-right: 100px;
+    padding-left: 30px;
     box-shadow:1px 1px  #F15A29;
+    height: 50px;
+
 }
+
+
+
 #gallery{
+    font-weight: bold;
+    display: flex;
+    color: #F15A29;
     border: 1px solid #F15A29;
-margin-right: 250px;
-padding-left: 20px;
+margin-right: 240px;
+padding-left:20px;
+
+
+
 box-shadow:1px 1px #F15A29;
+}
+
+#cursor{
+    font-size: 40px;
 }
 div{
     border: lime dotted;
@@ -126,17 +147,48 @@ div{
     justify-content: space-around;
     font-size: 1.2em;
     background-color:white;
+    background-color: #EAE8E4;
+
+
+
 }
+#words div{
+    width: 25%;
+    text-align: center;
+}
+
+#ff a{
+    color: #F15A29;
+}
+#ff{
+    background-color: white;
+}
+#ink a{color:black;
+
+    
+}
+#ink{
+    border-right: 1px solid rgb(165, 157, 157);
+    border: 1px solid rgb(185, 178, 178)
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+
 #foodz{
     display: flex;
     justify-content: space-around;
     background-color: white;
-    padding-bottom: 5%;
+    padding: 5%;
 }
 #foodz p{
     position: absolute;
     margin-left: 90px;
-
+    color: #F15A29;
+    font-weight: bold;
 
 }
 #fifth{
@@ -144,6 +196,9 @@ div{
     padding: 150px;
 
 }
+
+
+
 
 
     
