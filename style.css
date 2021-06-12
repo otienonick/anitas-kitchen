@@ -7,14 +7,29 @@ header{
     background-repeat: no-repeat;
     text-align: center;
     background-size: cover;
-    width: 90.85%;
+padding: 90px;width: 79.3%;
+text-align: center;
+}
+div{
+    border: 1px dotted lime;
 }
 
-#first{
-    padding: 5%;
+
+#frist{width: 5px;
+    
+
+    
+}
+#frist div{
+    width: 50px;
+    height: 2px;
+    background-color: white;
+    margin: 10px 0;
+    display: block;
+
 }
 
-#first>p{
+#first p{
     color: white;
     font-size: 2em;
     text-align: center
@@ -24,7 +39,10 @@ header{
     position: relative;
     display:flex;
     text-align: center;
+
 }
+
+
 #image{
     position: relative;
     display: flex;
@@ -61,6 +79,7 @@ color:#EAE8E4;
 #third{
     display: flex;
     text-align: left;
+    font-weight: bold;
     
 
 } 
@@ -68,6 +87,7 @@ color:#EAE8E4;
 #fourth{
     display: flex;
     padding: 5%;
+    font-weight: bold;
     
 
 
@@ -77,6 +97,7 @@ color:#EAE8E4;
     margin-right: 100px;
     border: 20px solid white;
     box-shadow: 2px 2px 10px;
+
 
 
 
@@ -138,9 +159,6 @@ box-shadow:1px 1px #F15A29;
 #cursor{
     font-size: 40px;
 }
-div{
-    border: lime dotted;
-}
 
 #words{
     display: flex;
@@ -183,40 +201,60 @@ a{
     justify-content: space-around;
     background-color: white;
     padding: 5%;
-}
-#foodz p{
-    position: absolute;
-    margin-left: 90px;
+    text-align: center;
     color: #F15A29;
-    font-weight: bold;
-
+    font-weight: 700;
 }
-#fifth{
-    background-image: url("./assets/foodsBg.jpg");
-    padding: 150px;
-
-}
-#nav{
-    color: #F15A29;
-    font-size: xx-large;
-    width: 40px;
-    padding-top: 80px;
-    font-weight: bold;
-}
-
-
-
-
-
 
     
 
 
 
+#foodz img{
+    padding: 20px;
+}
+#fifth{
+    background-image: url("./assets/foodsBg.jpg");
+    padding: 150px;
+    width: 70%;
+
+}
+
+    
+
+
+
+#sixth{
+    display: flex;
+    width: 70%;
+    margin-left: 150px;
+    color: #F15A29;
+    font-weight: bold;
+    box-shadow: 2px 2px 5px  gray;
+  
+}
+#customers{
+    width: 300%;
+    text-align: center;
+   
+
+}
+#menu{
+    text-align: center;
+}
+#pics{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: bold;
 
 
 
 
+}
+#sixth p{
+    color: black;
+}
     
     
 
