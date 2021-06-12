@@ -283,12 +283,14 @@ a{
         background-color: #F15A29;
         text-align: center;
         color: white;
-        font-weight: bold;
+        font-weight: 900;
+        padding: 30px;
+    
 
     }
 #seven{
     width: 91%;
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 .email{
