@@ -101,6 +101,22 @@ padding-left: 45px;
     padding: 5%;
 }
 
+#middle p:last-child{
+    color: #F15A29;
+}
+#view{
+    border: 1px solid #F15A29;
+    margin-left: 200px;
+    padding-right: 100px;
+    box-shadow:1px 1px  #F15A29;
+}
+#gallery{
+    border: 1px solid #F15A29;
+margin-right: 250px;
+padding-left: 20px;
+box-shadow:1px 1px #F15A29;
+}
+
 
 
 
