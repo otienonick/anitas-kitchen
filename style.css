@@ -61,6 +61,7 @@ color: rgb(214, 202, 202);
 #third{
     display: flex;
     text-align: left;
+    
 
 } 
 
@@ -116,16 +117,37 @@ margin-right: 250px;
 padding-left: 20px;
 box-shadow:1px 1px #F15A29;
 }
+div{
+    border: lime dotted;
+}
+
+#words{
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.2em;
+    background-color:white;
+}
+#foodz{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    padding-bottom: 5%;
+}
+#foodz p{
+    position: absolute;
+    margin-left: 90px;
 
 
+}
+#fifth{
+    background-image: url("./assets/foodsBg.jpg");
+    padding: 150px;
 
+}
 
 
     
 
-    
-
-    
 
 
 
