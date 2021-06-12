@@ -95,8 +95,9 @@ color:#EAE8E4;
 #drink{
     display: flex;
     margin-right: 100px;
-    border: 20px solid white;
-    box-shadow: 2px 2px 10px;
+    border: 20px solid #ffffff;
+    box-shadow: 2px 2px 5px;
+    color: gray;
 
 
 
@@ -105,7 +106,8 @@ color:#EAE8E4;
 #food{
     margin-left:100px;
     border: 20px solid white;
-    box-shadow: 2px 2px 10px ;
+    box-shadow: 2px 2px 5px ;
+    color: gray;
     font-size: 0px;
 }
 #you{
@@ -157,7 +159,7 @@ box-shadow:1px 1px #F15A29;
 }
 
 #cursor{
-    font-size: 40px;
+    font-size: xx-large
 }
 
 #words{
