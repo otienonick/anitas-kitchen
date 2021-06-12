@@ -227,20 +227,26 @@ a{
 #sixth{
     display: flex;
     width: 70%;
-    margin-left: 150px;
+    margin-left: 50px;
     color: #F15A29;
     font-weight: bold;
-    box-shadow: 2px 2px 5px  gray;
+  
+    padding: 5%;
+    
   
 }
+
+
 #customers{
     width: 300%;
     text-align: center;
+    box-shadow: 2px 2px 5px  gray;
    
 
 }
 #menu{
     text-align: center;
+    box-shadow: 2px 2px 5px  gray;
 }
 #pics{
     display: flex;
