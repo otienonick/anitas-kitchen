@@ -166,13 +166,17 @@ box-shadow:1px 1px #F15A29;
 #words{
     display: flex;
     justify-content: space-around;
-    font-size: 1.2em;
+    font-size:1.2em;
     background-color:white;
+    width: 90%;
 
    
 
 
 
+}
+#five{
+    margin-left: 100px;
 }
 #words div{
     width: 25%;
@@ -207,6 +211,7 @@ a{
     display: flex;
     justify-content: space-around;
     background-color: white;
+    width: 90%;
     text-align: center;
     color: #F15A29;
     font-weight: 700;
@@ -214,6 +219,7 @@ a{
 
   #foodz img{
       padding-top: 30px;
+    
   }  
 
 
@@ -225,7 +231,7 @@ a{
     width: 82%;
 
 }
-#nav{padding-top: 110px;
+#nav{padding-top: 7%;
     font-size: xx-large;
 }
 
@@ -305,7 +311,7 @@ a{
     display: flex;
     justify-content: space-around;
     width: 50%;
-    margin-left: 320px;
+    margin-left: 300px;
 }
 .you {
     width: 50%;
