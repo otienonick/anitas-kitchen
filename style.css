@@ -4,14 +4,14 @@
 
 }
 
-
 header{
     background-image: url("./assets/landing.jpg");
     background-repeat: no-repeat;
     text-align: center;
     background-size: cover;
-padding: 90px;width: 78.8%;
-text-align: center;
+padding: 90px;
+width: 78.8%;
+
 }
 
 
@@ -32,7 +32,7 @@ text-align: center;
 #first p{
     color: white;
     font-size: 2em;
-    text-align: center
+    text-align: center;
 
 }
 #second{
@@ -298,7 +298,8 @@ a{
         text-align: center;
         color: white;
         font-weight: 900;
-        padding: 30px;
+        padding-top: 50px;
+        padding-bottom: 10px;
     
 
     }
@@ -329,6 +330,7 @@ a{
 }
 .logo{
     font-size: 50px;
+
 }
 .daily h1{
     font-size: 35px;
@@ -338,16 +340,16 @@ a{
 .fb{width:15%;
     display: flex;
     justify-content: space-around;
-    margin-left: 560px;
+    margin-left: 570px;
 
 }
 .last{
-    font-size:20px ;
+    font-size:25px ;
 }
 .rest{
     width: 20%;
-    margin-left: 530px;
-    margin-top:30px ;
+    margin-left: 540px;
+    margin-top: 50px;
 }
 
 
