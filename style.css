@@ -168,7 +168,7 @@ box-shadow:1px 1px #F15A29;
     justify-content: space-around;
     font-size:1.2em;
     background-color:white;
-    width: 90%;
+    width: 92%;
 
    
 
@@ -176,7 +176,7 @@ box-shadow:1px 1px #F15A29;
 
 }
 #five{
-    margin-left: 100px;
+    margin-left: 80px;
 }
 #words div{
     width: 25%;
@@ -211,7 +211,7 @@ a{
     display: flex;
     justify-content: space-around;
     background-color: white;
-    width: 90%;
+    width: 92%;
     text-align: center;
     color: #F15A29;
     font-weight: 700;
